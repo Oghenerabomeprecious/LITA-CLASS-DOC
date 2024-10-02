@@ -11,3 +11,4 @@ Data can assume the following a) Structured b) Semi-structured c) Unstructured
 1) Ingestion 2) Transformation 3) Modeling 4) Visualization 5) Analysis 6) Presentation 
 Number of rows in Excel - 1,048,576
 Number of Columns in Excel - XFD (16,384)
+![Screenshot_20240904-130456.png](https://github.com/Oghenerabomeprecious/LITA-CLASS-DOC/blob/main/Screenshot_20240904-130456.png)
