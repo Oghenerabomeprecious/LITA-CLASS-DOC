@@ -67,6 +67,8 @@ The photo below shows the pivot tables I created
 ## Day 9 Pivot Table/Chart by Mr. Muhsin Hameed
 Created a pivot chart and customized it. Below is a picture of the pivot chart showing sale report.
 
+![sales report Pivot Chart](https://github.com/Oghenerabomeprecious/LITA-CLASS-DOC/blob/main/Sale%20report%20Pivot%20Chart.jpg)
+
 ## Day 10 Introduction to SQL by Mr. Femi Ayodele
 
 
