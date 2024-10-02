@@ -72,6 +72,49 @@ Created a pivot chart and customized it. Below is a picture of the pivot chart s
 ## Day 10 Introduction to SQL by Mr. Femi Ayodele
 
 
+ ## Introduction to SQL
+ - What is the Databases
+ - What are the advantage of Databases
+ - How to Database Store Data
+ - Why SQL (Why Data Analyst use SQL)
+ - Types of Databases (Microsoft Access, SQL Server, MySQL, PostgreSQL, Oracle, etc)
+ ## SQL Commands
+ - Introduction to SQL Command
+ - Types of SQL Commands : DDL, DML, DCL, DQL, and TCL
+ ## Writing SQL Queries 
+- Introduction to SQL Queries ( Create first Database)
+- SQL - Data Types
+- SQL - Create table
+- SQL - Keys: Unique keys, Primary Keys, Foreign Keys.
+- SQL - Insert into Table, select Table
+- SQL -  Drop, Delete, Truncate, Rename
+- SQL – Alter tables, Update tables, Drop tables, Delete tables, Truncate tables
+## SQL Aggregation Part 1
+- SQL – Clause: where, order by, Group by, Having, Top.
+- SQL – Operators: Like, AND, OR, Between, Not Between, IN, NOT IN.
+- SQL -  UNION Vs UNION ALL, INTERSECT.
+- SQL  QL-  Wild Card
+## SQL Joins
+- Introduction to Join
+- Type of Join 1: Inner Join
+- Type of Join 2: Outer Join
+- Type of Join 3: Right Join
+- Type of Join 4: Left Join
+- Type of Join 5: Full join
+## SQL Aggregation Part 2
+- Introduction to SQL Aggregation
+- Introduction to Null
+- Aggregation: COUNT, SUM, AVERAGE, MIN, MAX etc
+## SQL Views
+- Introduction to SQL Views
+-  SQL – Create views
+- SQL -  update views
+- SQL – Drops
+- SQL – Rename views
+## SQL CASE WHEN STATEMENT
+- Introduction to CASE Statement
+-  SQL – Create CASE WHEN Statement
+
 
 
 
