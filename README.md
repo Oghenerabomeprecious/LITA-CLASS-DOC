@@ -60,8 +60,7 @@ On this day I learnt about conditionals functions (IF, IFS, SWITCH, AND, OR, XOR
 ## Day 8 Reporting with Pivot Table/Chart by Mr. Muhsin Hameed
 The photo below shows the pivot tables I created  
 
-![Pivot table for LITA class.png](https://github.com/Oghenerabomeprecious/LITA-CLASS-DOC/commit/46af493df1a292e0439c95e73358fc6b109ded20)
-
+![Pivot table for LITA class.png](https://github.com/Oghenerabomeprecious/LITA-CLASS-DOC/blob/main/Pivot%20table%20for%20LITA%20class.png)
 
 
 
@@ -69,6 +68,12 @@ The photo below shows the pivot tables I created
 Created a pivot chart and customized it. Below is a picture of the pivot chart showing sale report.
 
 ## Day 10 Introduction to SQL by Mr. Femi Ayodele
+
+
+
+
+
+
 
 
 
